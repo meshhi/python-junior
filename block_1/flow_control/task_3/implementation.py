@@ -6,4 +6,3 @@ def get_days_count_by_month(month):
 
     Returns: количество дней
     """
-    raise NotImplementedError
