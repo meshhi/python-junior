@@ -10,6 +10,7 @@ def get_next_date(some_date):
     Returns: следующая дата
     """
     # чтобы соблюсти требование по наличию конструкций flow control
+    # test
     for item in range(1):
         some_date += datetime.timedelta(days=1)
     return some_date
